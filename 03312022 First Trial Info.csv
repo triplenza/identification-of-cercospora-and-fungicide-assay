@@ -1,0 +1,346 @@
+Isolate,County,City,State,Region,Fungicide_History,Year,Species
+Czm_20_1,Allen,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_6,Bartholomew,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_7,Blackford,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_10,Brown,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_13,Cass,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_15,Hancock,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_16,Newton,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_17,Parke,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_18,Pike,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_19,Koskiosko,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_22,Laporte,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_25,Marion,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_26,Marshall,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_31,Monroe,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_32,Fountain,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_35,Delaware,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_36,Spencer,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_40,Franklin,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_41,Gibson,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_55,Ripley,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_56,Scott,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_59,St. Joseph,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_60,Steuben,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_62,Tippecanoe,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_65,Tipton,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_66,Vermillion,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_70,Carroll,,IN,Midwest,,2020,C. zeae-maydis
+Czm_20_72,,Westover,MD,Northeast,,2020,C. zeae-maydis
+Czm_20_73,,Westover,MD,Northeast,,2020,C. zeae-maydis
+Czm_20_74,,Westover,MD,Northeast,,2020,C. zeae-maydis
+Czm_20_75,,Westover,MD,Northeast,,2020,C. zeae-maydis
+Czm_20_76,,Westover,MD,Northeast,,2020,C. zeae-maydis
+Czm_20_77,,Westover,MD,Northeast,,2020,C. zeae-maydis
+Czm_20_78,,Kennedyville,MD,Northeast,,2020,C. zeae-maydis
+Czm_20_79,,Kennedyville,MD,Northeast,,2020,C. zeae-maydis
+Czm_20_80,,Rock Hall,MD,Northeast,,2020,C. zeae-maydis
+Czm_20_81,,Rock Hall,MD,Northeast,,2020,C. zeae-maydis
+Czm_20_82,,Manheim,PA,Northeast,,2020,C. zeae-maydis
+Czm_20_85,,Plainview,NE,Midwest,,2020,C. zeae-maydis
+Czm_20_86,,Troy,OH,Midwest,No,2020,C. zeae-maydis
+Czm_20_87,,Pargon,IL,Midwest,,2020,C. zeae-maydis
+Czm_20_88,,Celina,OH,Midwest,,2020,C. zeae-maydis
+Czm_20_89,,Ottawa,MI,Midwest,,2020,C. zeae-maydis
+Czm_20_90,,Warwick,MD,Northeast,,2020,C. zeae-maydis
+Czm_20_91,,Dallas Center,IA,Midwest,,2020,C. zeae-maydis
+Czm_20_92,,Hershey,PA,Northeast,,2020,C. zeae-maydis
+Czm_20_93,,Christiana,PA,Northeast,,2020,C. zeae-maydis
+Czm_20_94,,Elkton,MD,Northeast,No,2020,C. zeae-maydis
+Czm_20_95,,Ackley,IA,Midwest,No,2020,C. zeae-maydis
+Czm_20_96,,Whitestown,IL,Midwest,No,2020,C. zeae-maydis
+Czm_20_97,,Branch,MI,Midwest,,2020,C. zeae-maydis
+Czm_20_98,,Montcalm,MI,Midwest,,2020,C. zeae-maydis
+Czm_20_99,,Lenawee,MI,Midwest,,2020,C. zeae-maydis
+Czm_20_100,,Saint Henry,OH,Midwest,No,2020,C. zeae-maydis
+Czm_20_101,,Troy,OH,Midwest,No,2020,C. zeae-maydis
+Czm_20_102,,Town Creek,AL,Southeast,,2020,C. zeae-maydis
+Czm_20_103,,Effingham,IL,Midwest,,2020,C. zeae-maydis
+Czm_20_104,,Altamont,IL,Midwest,,2020,C. zeae-maydis
+Czm_20_105,,East lansing ,MI,Midwest,,2020,C. zeae-maydis
+Czm_20_106,,Osgood,OH,Midwest,No,2020,C. zeae-maydis
+Czm_20_107,,Friendship,TN,Southeast,,2020,C. zeae-maydis
+Czm_21_1,,Dieterich,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_4,,Lawrenceville,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_11,,Fayette,KY,Southeast,,2021,C. zeae-maydis
+Czm_21_13,,Gibson City,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_18,,Shiwwassee,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_19,,Shiwwassee,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_20,,Shiwwassee,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_21,,Shiwwassee,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_22,,Shiwwassee,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_23,,Topeka,KS,Midwest,Flutriafol,2021,C. zeae-maydis
+Czm_21_24,,Topeka,KS,Midwest,Flutriafol,2021,C. zeae-maydis
+Czm_21_25,,Topeka,KS,Midwest,Flutriafol,2021,C. zeae-maydis
+Czm_21_26,,Topeka,KS,Midwest,Flutriafol,2021,C. zeae-maydis
+Czm_21_27,,Topeka,KS,Midwest,Flutriafol,2021,C. zeae-maydis
+Czm_21_28,,Topeka,KS,Midwest,Flutriafol,2021,C. zeae-maydis
+Czm_21_29,,Topeka,KS,Midwest,Flutriafol,2021,C. zeae-maydis
+Czm_21_31,,Aloha,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_32,,Moro,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_33,,Williamsport,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_34,,West Salem,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_35,,Hamilton,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_36,,Decatur,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_37,St. Joseph,,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_38,,Zeeland,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_39,,Avon,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_40,,Selinsgrove,PA,Northeast,,2021,C. zeae-maydis
+Czm_21_41,,Berrysburg,PA,Northeast,,2021,C. zeae-maydis
+Czm_21_42,,High Hill,NY,Northeast,No,2021,C. zeae-maydis
+Czm_21_43,,Charlotte,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_44,,,KS,Midwest,,2021,C. zeae-maydis
+Czm_21_45,,Decatur,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_46,,Decatur,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_47,,Decatur,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_48,,Zeeland,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_49,,Zeeland,MI,Midwest,,2021,C. zeae-maydis
+Czm_21_50,,Rossville,KS,Midwest,No,2021,C. zeae-maydis
+Czm_21_51,,Rossville,KS,Midwest,No,2021,C. zeae-maydis
+Czm_21_52,,Rossville,KS,Midwest,No,2021,C. zeae-maydis
+Czm_21_53,,Immon,KS,Midwest,Other,2021,C. zeae-maydis
+Czm_21_54,,Immon,KS,Midwest,Other,2021,C. zeae-maydis
+Czm_21_55,,Immon,KS,Midwest,Other,2021,C. zeae-maydis
+Czm_21_56,,Colwich,KS,Midwest,,2021,C. zeae-maydis
+Czm_21_57,,Colwich,KS,Midwest,,2021,C. zeae-maydis
+Czm_21_58,,Colwich,KS,Midwest,,2021,C. zeae-maydis
+Czm_21_61,,Hershey,PA,Northeast,,2021,C. zeae-maydis
+Czm_21_62,,Marytown,PA,Northeast,,2021,C. zeae-maydis
+Czm_21_64,,Mt. Joy,PA,Northeast,,2021,C. zeae-maydis
+Czm_21_67,,Landisville,PA,Northeast,,2021,C. zeae-maydis
+Czm_21_69,,Avon,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_70,,Avon,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_72,,High Hill,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_73,,High Hill,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_74,,High Hill,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_75,,,KS,Midwest,,2021,C. zeae-maydis
+Czm_21_76,,,KS,Midwest,,2021,C. zeae-maydis
+Czm_21_77,,,KS,Midwest,,2021,C. zeae-maydis
+Czm_21_79,,Le Roy,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_80,,Champaign,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_82,,Tolono,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_83,,Roanoke,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_86,,Mt Vernon,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_87,,Shelbyville,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_89,,Cowl City,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_91,,Villa Grove,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_93,,Clay City,IL,Midwest,,2021,C. zeae-maydis
+Czm_21_95,,Adair,KY,Southeast,Other,2021,C. zeae-maydis
+Czm_21_96,Kosckiosko,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_97,,Campbelltown,PA,Northeast,,2021,C. zeae-maydis
+Czm_21_98,Martin,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_99,Randolph,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_100,Decatur,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_101,Hancock,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_102,Fayette,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_103,Ohio,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_104,White,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_105,Orange,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_106,Fountain,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_108,Lawrence,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_109,Warren,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_110,Dekalb,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_111,Warnick,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_112,Franklin,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_113,Hendricks,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_114,Wayne,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_115,Shelby,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_116,Whitley,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_117,Jackson,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_118,Grant,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_119,Delaware,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_120,Pike,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_121,Johnson,,IN,Midwest,,2021,C. zeae-maydis
+Czm_21_122,,Hamilton,NY,Northeast,No,2021,C. zeae-maydis
+Czm_21_123,,Hamilton,NY,Northeast,No,2021,C. zeae-maydis
+Czm_21_124,,Hamilton,NY,Northeast,No,2021,C. zeae-maydis
+Czm_21_125,,Bloomsbury,NJ,Northeast,No,2021,C. zeae-maydis
+Czm_21_126,,Bloomsbury,NJ,Northeast,No,2021,C. zeae-maydis
+Czm_21_127,,Bloomsbury,NJ,Northeast,No,2021,C. zeae-maydis
+Czm_21_128,,Shacklefords,VA,Southeast,No,2021,C. zeae-maydis
+Czm_21_129,,Centreville,MD,Northeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_130,,Honey Brook,PA,Northeast,No,2021,C. zeae-maydis
+Czm_21_132,,Bloomsbury,NJ,Northeast,No,2021,C. zeae-maydis
+Czm_21_133,,Honey Brook,PA,Northeast,No,2021,C. zeae-maydis
+Czm_21_134,,Little Plymouth,VA,Southeast,No,2021,Cercospora sp. T
+Czm_21_135,,Lickingville,PA,Northeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_137,,Centreville,MD,Northeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_138,,Bloomsbury,NJ,Northeast,No,2021,C. zeae-maydis
+Czm_21_139,,Bethel ,PA,Northeast,No,2021,C. zeae-maydis
+Czm_21_141,,Greencastle,PA,Northeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_142,,Zion Grove,PA,Northeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_144,,Iva,PA,Northeast,No,2021,C. zeae-maydis
+Czm_21_145,,Harmony,MD,Northeast,No,2021,C. zeae-maydis
+Czm_21_146,,Princess Anne,MD,Northeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_147,,Gargatha,VA,Southeast,,2021,C. zeae-maydis
+Czm_21_154,,Water View,VA,Southeast,No,2021,Cercospora sp. Q
+Czm_21_155,,Darlington,MD,Northeast,No,2021,C. zeae-maydis
+Czm_21_157,,Buttler,PA,Northeast,,2021,C. zeae-maydis
+Czm_21_160,,Darlington,MD,Northeast,No,2021,C. zeae-maydis
+Czm_21_161,,Holly Springs,PA,Northeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_162,,Darlington,MD,Northeast,No,2021,C. zeae-maydis
+Czm_21_163,,Wolfs Corner,PA,Northeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_168,,Harmony,PA,Northeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_169,,Ephrata,PA,Northeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_172,,Manatawny,PA,Northeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_174,,Parksburg,PA,Northeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_178,,"Seneca Overlook, Laytonsville",MD,Northeast,No,2021,C. zeae-maydis
+Czm_21_180,,Gargatha,VA,Southeast,,2021,C. zeae-maydis
+Czm_21_181,,Gargatha,VA,Southeast,,2021,C. zeae-maydis
+Czm_21_182,,Clarksons Crossroads,DE,Southeast,,2021,C. zeae-maydis
+Czm_21_183,,Sidney,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_184,,Sidney,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_185,,Sidney,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_186,,Ruffs Dale,PA,Northeast,No,2021,C. zeae-maydis
+Czm_21_189,Logan,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_190,Logan,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_191,Dakota,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_192,Dakota,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_193,Dakota,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_195,Holt,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_196,Holt,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_197,Clay,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_198,Clay,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_199,Clay,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_200,Saunders,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_201,Saunders,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_202,Saunders,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_203,Garfield,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_204,Garfield,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_205,Garfield,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_206,Dixon,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_207,Dixon,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_208,Dixon,,NE,Midwest,,2021,C. zeae-maydis
+Czm_21_209,Washington,,IA,Midwest,,2021,C. zeae-maydis
+Czm_21_210,Washington,,IA,Midwest,,2021,C. zeae-maydis
+Czm_21_211,Washington,,IA,Midwest,,2021,C. zeae-maydis
+Czm_21_212,Washington,,IA,Midwest,,2021,C. zeae-maydis
+Czm_21_213,Washington,,IA,Midwest,,2021,C. zeae-maydis
+Czm_21_214,Washington,,IA,Midwest,,2021,C. zeae-maydis
+Czm_21_215,Grundy,,IA,Midwest,,2021,C. zeae-maydis
+Czm_21_216,Grundy,,IA,Midwest,,2021,C. zeae-maydis
+Czm_21_217,Grundy,,IA,Midwest,,2021,C. zeae-maydis
+Czm_21_218,,Oxford,NJ,Northeast,No,2021,C. zeae-maydis
+Czm_21_219,,Oxford,NJ,Northeast,No,2021,C. zeae-maydis
+Czm_21_220,,Oxford,NJ,Northeast,No,2021,C. zeae-maydis
+Czm_21_221,Cayuga,New Hope,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_222,Cayuga,New Hope,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_223,Cayuga,New Hope,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_224,Cayuga,New Hope,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_225,,Wilson,VA,Southeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_226,,Wilson,VA,Southeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_227,,Wilson,VA,Southeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_228,,Wilson,VA,Southeast,Flutriafol,2021,C. zeae-maydis
+Czm_21_229,,Shacklefords,VA,Southeast,No,2021,C. zeae-maydis
+Czm_21_230,,Shacklefords,VA,Southeast,No,2021,C. zeae-maydis
+Czm_21_231,,Shacklefords,VA,Southeast,No,2021,C. zeae-maydis
+Czm_21_232,,Shacklefords,VA,Southeast,No,2021,C. zeae-maydis
+Czm_21_233,,Dinwiddie,VA,Southeast,No,2021,C. zeae-maydis
+Czm_21_234,,Dinwiddie,VA,Southeast,No,2021,C. zeae-maydis
+Czm_21_235,,Gibeon,VA,Southeast,No,2021,C. zeae-maydis
+Czm_21_236,,Gibeon,VA,Southeast,No,2021,C. zeae-maydis
+Czm_21_237,,Gibeon,VA,Southeast,No,2021,C. zeae-maydis
+Czm_21_238,,Seaford,DE,Southeast,,2021,C. zeae-maydis
+Czm_21_239,,Seaford,DE,Southeast,,2021,C. zeae-maydis
+Czm_21_240,,Seaford,DE,Southeast,,2021,C. zeae-maydis
+Czm_21_241,,Seaford,DE,Southeast,,2021,C. zeae-maydis
+Czm_21_242,,Nicholas,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_243,,Nicholas,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_244,,Nicholas,NY,Northeast,,2021,C. zeae-maydis
+Czm_21_245,,Fayette,KY,Southeast,No,2021,C. zeae-maydis
+Czm_21_246,,Fayette,KY,Southeast,No,2021,C. zeae-maydis
+Czm_21_247,,Fayette,KY,Southeast,No,2021,C. zeae-maydis
+Czm_21_248,,Fayette,KY,Southeast,No,2021,C. zeae-maydis
+Czm_21_249,,Fayette,KY,Southeast,No,2021,C. zeae-maydis
+Czm_21_250,,Chatham-Kent,Canada,Canada,No,2021,C. zeae-maydis
+Czm_21_251,,Chatham-Kent,Canada,Canada,No,2021,C. zeae-maydis
+Czm_21_252,,Chatham-Kent,Canada,Canada,No,2021,C. zeae-maydis
+Czm_21_253,,Chatham-Kent,Canada,Canada,No,2021,C. zeae-maydis
+Czm_21_254,,Chatham-Kent,Canada,Canada,No,2021,C. zeae-maydis
+GLS_20_6,Carroll,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_7,Cass,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_8,Clinton,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_11A,Dekalb,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_11B,Dekalb,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_13A,Elkhart,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_13B,Elkhart,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_14,Fountain,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_18,Jasper,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_20A,Knox,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_20B,Knox,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_31,Posey,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_32,Ripley,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_37A,St. Joseph,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_37B,St. Joseph,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_38,Starke,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_40A,Switzerland,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_40B,Switzerland,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_44A,Warren,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_44B,Warren,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_46,White,,IN,Midwest,,2020,C. cf. flagellaris
+GLS_20_62A,,Stromsburg,NE,Midwest,Other,2020,C. cf. flagellaris
+GLS_20_62B,,Stromsburg,NE,Midwest,Other,2020,C. cf. flagellaris
+GLS_20_63,,Pargon,IL,Midwest,No,2020,C. cf. flagellaris
+GLS_20_64,,Branch,MI,Midwest,,2020,C. cf. flagellaris
+GLS_20_69,,Saint Henry,OH,Midwest,No,2020,C. cf. flagellaris
+GLS_20_70,,Celina,OH,Midwest,,2020,C. cf. flagellaris
+GLS_20_72,,Elkton,MD,Northeast,Other,2020,C. cf. flagellaris
+GLS_20_75,,Ackley,IA,Midwest,No,2020,C. cf. flagellaris
+GLS_20_79,,Bells,TN,Southeast,,2020,C. cf. flagellaris
+GLS_20_81,,Jackson,TN,Southeast,,2020,C. cf. flagellaris
+GLS_20_82,,Tomalco,IL,Midwest,,2020,C. cf. flagellaris
+GLS_20_83,,Friendship,TN,Southeast,,2020,C. cf. flagellaris
+GLS_20_89,,Hail,TN,Southeast,,2020,C. cf. flagellaris
+GLS_20_91,,Maury City,TN,Southeast,,2020,C. cf. flagellaris
+GLS_20_93A,,Plainview,NE,Midwest,,2020,C. cf. flagellaris
+GLS_20_93B,,Plainview,NE,Midwest,,2020,C. cf. flagellaris
+GLS_20_94A,,Elkton,MD,Northeast,,2020,C. cf. flagellaris
+GLS_20_94B,,Elkton,MD,Northeast,,2020,C. cf. flagellaris
+GLS_20_95A,,Westover,MD,Northeast,,2020,C. cf. flagellaris
+GLS_20_95B,,Westover,MD,Northeast,,2020,C. cf. flagellaris
+GLS_20_95C,,Westover,MD,Northeast,,2020,C. cf. flagellaris
+GLS_20_98A,,Westover,MD,Northeast,,2020,C. cf. flagellaris
+GLS_20_98B,,Westover,MD,Northeast,,2020,C. cf. flagellaris
+GLS_20_100,,Rock Hall,MD,Northeast,,2020,C. cf. flagellaris
+GLS_20_102,,Plainview,NE,Midwest,,2020,C. cf. flagellaris
+GLS_20_109,,Deer Grove,IL,Midwest,,2020,C. cf. flagellaris
+GLS_21_157A,VANDERBURGH,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_157B,VANDERBURGH,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_162,PERRY,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_163,PUTNAM I,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_164A,GREEN 2,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_164B,GREEN 2,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_165,MONTGOMERY,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_168,Shelby,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_177,SULLIVAN 1,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_180,GIBSON,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_200,JASPER 3,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_214,MONROE,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_217,BARTHOLOMEW,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_218,HUNINGTON,,IN,Midwest,,2021,C. cf. flagellaris
+GLS_21_231A,,Gibeon,VA,Southeast,No,2021,C. cf. flagellaris
+GLS_21_231B,,Gibeon,VA,Southeast,No,2021,C. cf. flagellaris
+GLS_21_231C,,Gibeon,VA,Southeast,No,2021,C. cf. flagellaris
+GLS_21_233A,,Shacklefords,VA,Southeast,No,2021,C. cf. flagellaris
+GLS_21_233B,,Shacklefords,VA,Southeast,No,2021,C. cf. flagellaris
+GLS_21_234,,Bloomsbury,NJ,Northeast,No,2021,C. cf. flagellaris
+GLS_21_238,,Little Plymouth,VA,Southeast,No,2021,C. cf. flagellaris
+GLS_21_238A,,Little Plymouth,VA,Southeast,No,2021,C. kikuchii
+GLS_21_238B,,Little Plymouth,VA,Southeast,No,2021,C. kikuchii
+GLS_21_244A,,Harmony,MD,Northeast,No,2021,C. cf. flagellaris
+GLS_21_244B,,Harmony,MD,Northeast,No,2021,C. cf. flagellaris
+GLS_21_245A,,Princess Anne,MD,Northeast,Flutriafol,2021,C. cf. flagellaris
+GLS_21_245B,,Princess Anne,MD,Northeast,Flutriafol,2021,C. kikuchii
+GLS_21_254,,Allen,PA,Northeast,Flutriafol,2021,C. kikuchii
+GLS_21_256,,Templeton,VA,Southeast,No,2021,Cercospora sp. M
+GLS_21_256A,,Templeton,VA,Southeast,No,2021,Cercospora sp. T
+GLS_21_256B,,Templeton,VA,Southeast,No,2021,Cercospora sp. T
+GLS_21_261A,,Water View,VA,Southeast,No,2021,C. cf. flagellaris
+GLS_21_261B,,Water View,VA,Southeast,No,2021,Cercospora sp. M
+GLS_21_270A,,Georgetown,DE,Southeast,,2021,C. cf. flagellaris
+GLS_21_270B,,Georgetown,DE,Southeast,,2021,C. cf. flagellaris
+GLS_21_271A,,Clarksons Crossroads,DE,Southeast,,2021,C. cf. flagellaris
+GLS_21_271B,,Clarksons Crossroads,DE,Southeast,,2021,C. cf. flagellaris
+GLS_21_271C,,Clarksons Crossroads,DE,Southeast,,2021,C. cf. flagellaris
+GLS_21_271D,,Clarksons Crossroads,DE,Southeast,,2021,C. cf. flagellaris
+GLS_21_275,Logan,,NE,Midwest,,2021,C. cf. flagellaris
